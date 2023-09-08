@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/login.bmp</file>
+        <file>HPSMC.exe</file>
+    </qresource>
+</RCC>
